@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on mirnbly.ru</title>
-    <link>https://mirnbly.ru/tags/</link>
+    <link>https://mirnbly.github.io/tags/</link>
     <description>Recent content in Tags on mirnbly.ru</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru-ru</language>
     
-	<atom:link href="https://mirnbly.ru/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://mirnbly.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

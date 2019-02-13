@@ -2,13 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on mirnbly.ru</title>
-    <link>https://mirnbly.ru/categories/</link>
+    <link>https://mirnbly.github.io/categories/</link>
     <description>Recent content in Categories on mirnbly.ru</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru-ru</language>
     
-	<atom:link href="https://mirnbly.ru/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://mirnbly.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Заметки</title>
+      <link>https://mirnbly.github.io/categories/%D0%B7%D0%B0%D0%BC%D0%B5%D1%82%D0%BA%D0%B8/</link>
+      <pubDate>Wed, 13 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://mirnbly.github.io/categories/%D0%B7%D0%B0%D0%BC%D0%B5%D1%82%D0%BA%D0%B8/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

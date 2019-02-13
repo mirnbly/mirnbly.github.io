@@ -7,10 +7,15 @@ Disallow: /404.html
 
 
 
+Allow: /blog/riskuj-gde-mozhesh/
 
 
+
+
+Disallow: /blog/riskuj-gde-mozhesh/index.xml
+Disallow: /blog/riskuj-gde-mozhesh/index.html
 
 
 Host: mirnbly.ru
 
-Sitemap: https://mirnbly.ru/sitemap.xml
+Sitemap: https://mirnbly.github.io/sitemap.xml
