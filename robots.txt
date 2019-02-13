@@ -1,0 +1,16 @@
+User-agent: *
+
+Disallow: /blog/
+Disallow: /tags/
+Disallow: /categories/
+Disallow: /404.html
+
+
+
+
+
+
+
+Host: mirnbly.ru
+
+Sitemap: https://mirnbly.ru/sitemap.xml
