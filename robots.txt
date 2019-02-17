@@ -18,4 +18,4 @@ Disallow: /blog/riskuj-gde-mozhesh/index.html
 
 Host: mirnbly.ru
 
-Sitemap: https://mirnbly.github.io/sitemap.xml
+Sitemap: https://mirnbly.ru/sitemap.xml
