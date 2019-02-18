@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Blogs on mirnbly.ru</title>
-    <link>https://mirnbly.ru/blog/</link>
-    <description>Recent content in Blogs on mirnbly.ru</description>
+    <title>mirnbly.ru</title>
+    <link>https://mirnbly.ru/</link>
+    <description>Recent content on mirnbly.ru</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru-ru</language>
     <lastBuildDate>Wed, 13 Feb 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://mirnbly.ru/blog/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://mirnbly.ru/rss.xml" rel="self" type="application/rss+xml" />
     
     
     <item>

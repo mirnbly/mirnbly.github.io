@@ -12,7 +12,6 @@ Allow: /blog/riskuj-gde-mozhesh/
 
 
 
-Disallow: /blog/riskuj-gde-mozhesh/index.xml
 Disallow: /blog/riskuj-gde-mozhesh/index.html
 
 
