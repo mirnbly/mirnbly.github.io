@@ -3,7 +3,6 @@ User-agent: *
 Disallow: /blog/
 Disallow: /tags/
 Disallow: /categories/
-Disallow: /404.html
 
 
 
