@@ -6,9 +6,6 @@
     <description>Recent content in Categories on mirnbly.ru</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru-ru</language>
-    
 	<atom:link href="https://mirnbly.ru/categories/rss.xml" rel="self" type="application/rss+xml" />
-    
-    
   </channel>
 </rss>
