@@ -1,7 +1,8 @@
 User-agent: *
-Disallow: /blog/
-Disallow: /tags/
-Disallow: /categories/
 Allow: /blog/riskuj-gde-mozhesh/
+Allow: /
+Allow: /blog/
+Allow: /categories/
+Allow: /tags/
 Host: mirnbly.ru
 Sitemap: https://mirnbly.ru/sitemap.xml
